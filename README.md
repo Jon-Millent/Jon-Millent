@@ -1,3 +1,6 @@
-### Hi there 👋
+### about me
 
-<h1 style="font-size: 100px;">🌙</h1>
+* `web developer`
+* `nodejs developer`
+* `unity learning`
+* `trying to change one's life course`
